@@ -29,9 +29,9 @@
 ### 预测步骤
 
 ### Reference
-https://zhuanlan.zhihu.com/p/341375686
-https://zhuanlan.zhihu.com/p/337131142
-https://zhuanlan.zhihu.com/p/337193820
-https://zhuanlan.zhihu.com/p/341369456
+- 语义分割指标https://zhuanlan.zhihu.com/p/341375686
+- FCN数据集获取https://zhuanlan.zhihu.com/p/337131142
+- FCN模型实现https://zhuanlan.zhihu.com/p/337193820
+- FCN训练及结果https://zhuanlan.zhihu.com/p/341369456
 
 
