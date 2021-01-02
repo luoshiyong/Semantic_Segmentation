@@ -15,11 +15,11 @@
 | VOC12 | 300x300 | 0.38 | 0.88 | 0.43 | 
 
 ### 所需环境
-虚拟环境：Anaconda 4.5.4
-Python环境：Python 3.6.5
-编译器：vs code
-深度学习框架：pytorch1.5.1
-Python库：numpy,pandas,os,PIL,matplotlib等
+- 虚拟环境：Anaconda 4.5.4
+- Python环境：Python 3.6.5
+- 编译器：vs code
+- 深度学习框架：pytorch1.5.1
+- Python库：numpy,pandas,os,PIL,matplotlib等
 
 ### 文件下载
 VOC12语义分割数据集：![voc12](https://www.kaggle.com/luoshiyong/voc2012-semanticsegment)
