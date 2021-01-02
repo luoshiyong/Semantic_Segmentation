@@ -22,8 +22,8 @@
 - Python库：numpy,pandas,os,PIL,matplotlib等
 
 ### 文件下载
-VOC12语义分割数据集：![voc12](https://www.kaggle.com/luoshiyong/voc2012-semanticsegment)
-权重文件：效果太差（如果需要请联系我）
+- VOC12语义分割数据集：![voc12](https://www.kaggle.com/luoshiyong/voc2012-semanticsegment)
+- 权重文件：效果太差（如果需要请联系我）
 
 ### 训练步骤
 ### 预测步骤
