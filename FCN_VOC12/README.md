@@ -1,4 +1,4 @@
-## FCN_VOC12:Fully Convolutional Networks for Semantic Segmentation for voc2012全卷积网络语义分割pytroch复现
+## FCN_VOC12:Fully Convolutional Networks for Semantic Segmentation for voc2012全卷积网络语义分割pytorch复现
 ---
 
 ### 目录
